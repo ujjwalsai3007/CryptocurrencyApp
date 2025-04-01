@@ -3,10 +3,10 @@
 A modern Android application that displays cryptocurrency information using the CoinPaprika API. This app follows clean architecture principles and is built with the latest Android development tools and libraries.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf80f80a-340f-4372-bed3-e03fcd011da2" width="100" />
-  <img src="https://github.com/user-attachments/assets/4bd6cdfb-dbe4-4fbb-a0ed-afbfc0c67d41" width="100" />
-  <img src="https://github.com/user-attachments/assets/02d05ba3-6e98-4ce9-8c6f-7ec09470e1aa" width="100" />
-  <img src="https://github.com/user-attachments/assets/40dd5a9f-5e42-4f2d-aeac-2e03f9e75b28" width="100" />
+  <img src="https://github.com/user-attachments/assets/bf80f80a-340f-4372-bed3-e03fcd011da2" width="200" />
+  <img src="https://github.com/user-attachments/assets/4bd6cdfb-dbe4-4fbb-a0ed-afbfc0c67d41" width="200" />
+  <img src="https://github.com/user-attachments/assets/02d05ba3-6e98-4ce9-8c6f-7ec09470e1aa" width="200" />
+  <img src="https://github.com/user-attachments/assets/40dd5a9f-5e42-4f2d-aeac-2e03f9e75b28" width="200" />
 </p>
 
 
