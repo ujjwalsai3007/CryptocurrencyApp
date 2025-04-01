@@ -74,6 +74,7 @@ dependencies {
     implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("androidx.navigation:navigation-compose:$nav_version")
     implementation("androidx.hilt:hilt-navigation-fragment:1.0.0")
+    implementation("com.google.accompanist:accompanist-flowlayout:0.31.3-beta")
 }
 
 kapt {
